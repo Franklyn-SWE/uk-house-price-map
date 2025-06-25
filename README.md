@@ -1,1 +1,1 @@
-# uk-house-price-map
+# UK-house-price-map
